@@ -13,6 +13,10 @@ Clone the repo:
 
 `git clone https://github.com/nirban07/tic-tac-toe.git`
 
+Change directory:
+
+`cd tic-tac-toe`
+
 Install dependencies:
 
 `npm install `
